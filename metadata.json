@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SpectralHem™ - AI Hemoglobin Estimator",
+  "description": "Clinical-grade AI system for non-invasive hemoglobin estimation from nailbed images. Features deep learning classification, spectral analysis, fairness calibration, and family health tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
